@@ -1,4 +1,4 @@
-<h1 align="center">$ Fire-Pisher $</h1>
+<h1 align="center">$ Fire-Phisher $</h1>
 <h1 align="center">
   <br>
   <img src="https://github.com/Kum4r-Princ3/Fire-Phisher/blob/main/fire-phiser.png" width="850px" alt="Fire-Phisher"></a>
