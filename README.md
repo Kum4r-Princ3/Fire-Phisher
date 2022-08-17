@@ -22,7 +22,7 @@ Fire-Phisher require some packages to install successfully. Run the following co
 sudo apt install php figlet lolcat curl -y
 ```
 ```sh
-curl -LO https://github.com/Kum4r-Princ3/Fire-Phisher/blob/main/Fire-Phisher.zip
+curl -LO https://raw.githubusercontent.com/Kum4r-Princ3/Fire-Phisher/main/Fire-Phisher.zip
 ```
 ```sh
 unzip Fire-Phisher.zip
