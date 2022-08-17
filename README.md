@@ -6,6 +6,7 @@
 <p align="center">
   <a href="#how-it-works">How</a> •
   <a href="#install">Install </a> 
+  <a href="#password-tutorial">Password</a>
 </p>
 
 
@@ -33,6 +34,10 @@ cd Fire-Phisher
 ```sh
 bash fire-phisher.sh
 ```
+
+<h2>Password Tutorial</h2>
+
+<a href="https://youtu.be/rrzAVZ63CHU"> Tutorial On YouTube </a>
 
 
 
