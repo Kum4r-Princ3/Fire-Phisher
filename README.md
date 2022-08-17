@@ -1,8 +1,13 @@
 <h1 align="center">Fire-Pisher</h1>
+<h1 align="center">
+  <br>
+  <img src="https://github.com/Kum4r-Princ3/Fire-Phisher/blob/main/fire-phiser.png" width="850px" alt="Fire-Phisher"></a>
+</h1>
 <p align="center">
   <a href="#how-it-works">How</a> •
   <a href="#install">Install </a> 
 </p>
+
 
 # How it works
 
@@ -17,7 +22,7 @@ Fire-Phisher require some packages to install successfully. Run the following co
 sudo apt install php figlet lolcat curl -y
 ```
 ```sh
-curl -LO 
+curl -LO https://github.com/Kum4r-Princ3/Fire-Phisher/blob/main/Fire-Phisher.zip
 ```
 ```sh
 unzip Fire-Phisher.zip
